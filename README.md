@@ -28,6 +28,6 @@ jobs:
     - name: Validate json files
       uses: mn185177/validate-json@master
       with:
-        directory: "."
+        directory: "." #
 
 ```
